@@ -1,0 +1,8 @@
+Read average_pandas.py
+Read average_plain.py
+Read check.py
+Read scores.py
+
+도구를 쓴 횟수: 1 읽은 파일 수 4/4
+
+모든 파일의 주석과 AI의 설명은 일치함.
